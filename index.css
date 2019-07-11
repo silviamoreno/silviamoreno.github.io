@@ -1,0 +1,22 @@
+p {
+  font-size: 20px;
+  line-height: 25px; /* fixed size*/
+}
+.shadow {text-shadow: 2px 4px 1px red;}
+
+.icons {
+  height: 16%;
+  width: 16%;
+}
+
+.kittycats{
+  display:inline-block;
+  width: 300px;
+  height: 200px;
+}
+
+.center {
+  display: block;
+  margin:0 auto;
+  width: 650px;
+}
